@@ -1,0 +1,10 @@
+-  I am a big pro.
+-  I love games, so I thought about making games.
+-  I am currently learning Python idle, Web design, Violincello, Swimming, Martial arts, Public speaking and more!
+-  The idle in Python is just what I use to code in python.
+-  I am completely new to Web design.
+-  I have been learning the cello for 3 months.
+-  I have rejoined and quit swimming several times.
+-  I have been learning martial arts since I was 3.
+-  Public speaking is kinda boring.
+-  So yea, that's a bunch of stuff about me.
